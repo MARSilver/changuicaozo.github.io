@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://changuicaozo.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-05-27T14:36:34.074Z</updated>
+    <title>常規操作</title>
+    <updated>2019-05-27T14:38:06.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://changuicaozo.github.io"/>
     <link rel="self" href="https://changuicaozo.github.io/atom.xml"/>
     <subtitle>且向人間一遭</subtitle>
     <logo>https://changuicaozo.github.io/images/avatar.png</logo>
     <icon>https://changuicaozo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 常規操作</rights>
     <entry>
         <title type="html"><![CDATA[【卫龙】『我個狗東西』]]></title>
         <id>https://changuicaozo.github.io/post/wo-ge-gou-dong-xi</id>
