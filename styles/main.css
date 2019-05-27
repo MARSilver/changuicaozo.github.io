@@ -774,3 +774,20 @@ td {
 .hljs-strong {
   font-weight: bold;
 }
+
+      .main {
+        background: #495057;
+      }
+    
+      body {
+        background: #adb5bd;
+      }
+    
+      body {
+        color: #f1f3f5;
+      }
+    
+      a {
+        color: #adb5bd;
+      }
+    
