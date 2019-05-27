@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://changuicaozo.github.io</id>
     <title>常規操作</title>
-    <updated>2019-05-27T15:02:50.981Z</updated>
+    <updated>2019-05-27T15:05:21.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://changuicaozo.github.io"/>
     <link rel="self" href="https://changuicaozo.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://changuicaozo.github.io/images/avatar.png</logo>
     <icon>https://changuicaozo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 常規操作</rights>
+    <entry>
+        <title type="html"><![CDATA[【卫龙】『死於零落』]]></title>
+        <id>https://changuicaozo.github.io/post/si-yu-ling-luo</id>
+        <link href="https://changuicaozo.github.io/post/si-yu-ling-luo">
+        </link>
+        <updated>2019-05-27T15:03:50.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【卫龙】『雲也摔倒了』]]></title>
         <id>https://changuicaozo.github.io/post/yun-ye-shuai-dao-liao</id>
